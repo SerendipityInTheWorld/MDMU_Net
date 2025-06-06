@@ -23,6 +23,6 @@ we use MSDPT Dataset(https://msd-for-monai.s3-us-west-2.amazonaws.com/Task07_Pan
 ## Ablation experiments
 ![image](https://github.com/SerendipityInTheWorld/MDMU_Net/blob/main/img3.png)
 ## Visualize the results
-
+![image](https://github.com/SerendipityInTheWorld/MDMU_Net/blob/main/img4.png)
 # Contact
 if you have any question, please email lulian_email@163.com
